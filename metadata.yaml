@@ -1,0 +1,48 @@
+_repo: The-Day-of-the-Boomer-Dukes_22559
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Willer
+    - Emsh, Ed
+    - Alexander, Ed
+    - Emsh
+    - Emshwiller, Edmund A.
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pohl, Frederik
+    aliases:
+    - Pohl, Frederick
+    - Pohl, Frederik George, Jr.
+    birthdate: 1919
+    deathdate: 2013
+    gutenberg_agent_id: '25413'
+    url: http://www.gutenberg.org/2009/agents/25413
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/46565
+    - http://en.wikipedia.org/wiki/Frederik_Pohl
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22559'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Time travel -- Fiction'
+- !lcsh 'Science fiction'
+title: The Day of the Boomer Dukes
+url: http://www.gutenberg.org/ebooks/22559
