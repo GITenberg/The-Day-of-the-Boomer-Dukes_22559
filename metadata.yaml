@@ -31,6 +31,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/46565
     - http://en.wikipedia.org/wiki/Frederik_Pohl
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22559#The-Day-of-the-Boomer-Dukes
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-09-10'
 gutenberg_type: Text
